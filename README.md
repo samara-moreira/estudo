@@ -1,2 +1,2 @@
 # estudo
-Repositório de estudos javascript
+Repositório de estudos
